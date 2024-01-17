@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="NopCommerce - User">
+ <test name="Run on chrome">
+  <parameter name= "browser" value="chrome"/>
+      <classes>
+      <class name="com.nopcommerce.user.Framwork_Bai8_Level04_Multiple_Browser"/>
+    </classes>
+  </test>
+  
+   
+</suite> 
